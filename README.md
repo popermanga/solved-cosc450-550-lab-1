@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-cosc450-550-lab-1
+<br>
+Program 1:Write a program that randomly generate a one-dimensional array, and implements quicksort using recursion. Display the original array, and the new array.Program 2:Write a program that randomly generate two two-dimensional arrays, and implements matrix multiplication using logical loop – for example, for loop. Display the two original matrixes, and the new matrix.
